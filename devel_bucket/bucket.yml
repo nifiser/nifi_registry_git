@@ -1,0 +1,6 @@
+flows:
+  7a40802c-dcad-40c9-9a79-04bbee49b2d5: {ver: 1, file: InnerProcessGroup8090Flow.snapshot,
+    comments: Versioning process group in a new flow of bucket devel_bucket, author: anonymous,
+    created: 1619621915853, flowName: InnerProcessGroup8090Flow, flowDesc: ''}
+layoutVer: 1
+bucketId: 544ca80c-6bc3-4e02-8bfe-fe26ee024347
