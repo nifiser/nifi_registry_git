@@ -13,14 +13,14 @@
         "flowFileConcurrency" : "UNBOUNDED",
         "flowFileOutboundPolicy" : "STREAM_WHEN_AVAILABLE",
         "funnels" : [ ],
-        "identifier" : "2acdf916-9701-362b-8fa1-528bd9744a18",
+        "identifier" : "0accd4a5-f91b-367c-af67-2f853f0498e4",
         "inputPorts" : [ ],
         "labels" : [ ],
         "name" : "ProcessGroupGit",
         "outputPorts" : [ ],
         "position" : {
-          "x" : 1353.0,
-          "y" : 90.5
+          "x" : 1406.932936109164,
+          "y" : 325.711941470255
         },
         "processGroups" : [ ],
         "processors" : [ {
@@ -35,7 +35,7 @@
           "componentType" : "PROCESSOR",
           "concurrentlySchedulableTaskCount" : 1,
           "executionNode" : "ALL",
-          "groupIdentifier" : "2acdf916-9701-362b-8fa1-528bd9744a18",
+          "groupIdentifier" : "0accd4a5-f91b-367c-af67-2f853f0498e4",
           "identifier" : "86e231f5-63ac-3abf-bbcc-932ebed40fa3",
           "name" : "LogMessage",
           "penaltyDuration" : "30 sec",
@@ -44,6 +44,7 @@
             "y" : 244.0
           },
           "properties" : {
+            "log-message" : "log message by devel1",
             "log-level" : "info"
           },
           "propertyDescriptors" : {
