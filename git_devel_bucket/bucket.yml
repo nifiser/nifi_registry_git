@@ -1,7 +1,6 @@
 flows:
-  6f9d1c5c-1e8d-4f26-b4c9-21d284c57907: {ver: 4, file: ProcessGroupGit.snapshot, comments: Added
-      log message in LogMessage processor by developer1 WITHOUT resolving conflicts
-      but ignoring developer1's develops, author: anonymous, created: 1619599912584,
-    flowName: ProcessGroupGit, flowDesc: ''}
+  6f9d1c5c-1e8d-4f26-b4c9-21d284c57907: {ver: 5, file: ProcessGroupGit.snapshot, comments: added
+      new component by dev 8090, author: anonymous, created: 1619621135466, flowName: ProcessGroupGit,
+    flowDesc: ''}
 layoutVer: 1
 bucketId: d2505a2b-2d5e-4ae1-a6a2-4652273586a2
