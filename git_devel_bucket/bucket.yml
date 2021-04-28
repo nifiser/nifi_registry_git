@@ -1,6 +1,6 @@
 flows:
-  6f9d1c5c-1e8d-4f26-b4c9-21d284c57907: {ver: 1, file: ProcessGroupGit.snapshot, comments: First
-      commit by developer1, author: anonymous, created: 1619599565188, flowName: ProcessGroupGit,
+  6f9d1c5c-1e8d-4f26-b4c9-21d284c57907: {ver: 2, file: ProcessGroupGit.snapshot, comments: Added
+      log message by devel2, author: anonymous, created: 1619599659483, flowName: ProcessGroupGit,
     flowDesc: ''}
 layoutVer: 1
 bucketId: d2505a2b-2d5e-4ae1-a6a2-4652273586a2
